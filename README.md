@@ -6,7 +6,9 @@ NOTE : Apabila Notebooks atau file IPYNB tidak bisa terbuka di Github, silahkan 
 ## KONTEN
 
 * **Machine Learning**
-     + Housing Prices Competition for Kaggle Learn Users
+     + [Housing Prices Competition for Kaggle Learn Users](https://github.com/Ghalih26/My-Data-Science-Portofolio-/blob/main/Housing_Price_Prediction_Fix%20(1).ipynb): 
+       Project ini saya kerjakan untuk mengikuti kompetisi kaggle, peserta diharuskan membuat sebuah model machine learning untuk memprediksi harga rumah dari data data yang disediakan oleh penyelenggara kompetisi. Dalam kompetisi ini saya menempati urutan 7237 dari 69.433 peserta.
+       
      + Titanic - Machine Learning from Disaster
      + Digit Recognizer
 * **Image Classification**
