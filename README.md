@@ -12,6 +12,6 @@ Repositori ini berisi portofolio saya mengenai Data Science project yang pernah 
 * **Natural Language Processing**
      + Sentimen Analisis
 * **Data Analisis dan Visualisasi Data**
-
+     + Data Analyst Project: Business Decision Research
 * **Project Sederhana**
 
