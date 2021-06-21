@@ -1,7 +1,7 @@
 # My-Data-Science-Portofolio-
 Repositori ini berisi portofolio saya mengenai Data Science project yang pernah saya kerjakan untuk tujuan belajar, kompetisi Kaggle dan hobi semata. Semua program saya tulis menggunakan bahasa pemrograman Python dan juga menggunakan Google Colab sebagai enginenya.
 
-# KONTEN
+## KONTEN
 
 * **Machine Learning**
      + Housing Prices Competition for Kaggle Learn Users
