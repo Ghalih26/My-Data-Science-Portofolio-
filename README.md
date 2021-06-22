@@ -4,6 +4,8 @@ Repositori ini berisi portofolio saya mengenai Data Science project yang pernah 
 NOTE : Apabila Notebooks atau file IPYNB tidak bisa terbuka di Github, silahkan kunjungi https://nbviewer.jupyter.org/ dan Copy pastekan link projek disana. Terimakasih
 
 ## KONTEN
+* **Project Sederhana**
+     + [Sistem Rekomendasi Film Sederhana](https://github.com/Ghalih26/My-Data-Science-Portofolio-/blob/main/Sistem_Rekomendasi_Sederhana.ipynb) : Sistem Rekomendasi Sederhana, seperti namanya adalah sistem rekomendasi yang hanya menggunakan urutan sebagai dasar perhitungannya, yang biasanya digunakan dalam '5 film terbaik' saya menggunakan urutan berdasarkan mungkin vote terbanyak, rating tertinggi, penjualan film paling tinggi, atau apapun yang lain. Dalam kasus ini, saya menggunakan kombinasi antara rata-rata rating, jumlah vote, dan membentuk metric baru dari metric yang sudah ada, kemudian saya melakukan sorting untuk metric ini dari yang tertinggi ke terendah. ![image](https://user-images.githubusercontent.com/54399051/122848675-42f45100-d334-11eb-9b90-af020baf0d3b.png)
 
 * **Machine Learning**
      + [Housing Prices Competition for Kaggle Learn Users](https://github.com/Ghalih26/My-Data-Science-Portofolio-/blob/main/Housing_Price_Prediction_Fix%20(1).ipynb) : 
@@ -17,5 +19,4 @@ NOTE : Apabila Notebooks atau file IPYNB tidak bisa terbuka di Github, silahkan 
      + Sentimen Analisis
 * **Data Analisis dan Visualisasi Data**
      + [Business Decision Research](https://github.com/Ghalih26/My-Data-Science-Portofolio-/blob/main/Business_Decision_Research_.ipynb) : Project ini saya buat dengan tujuan belajar, pada project ini saya menganalisa dataset yang ada dan memvisualisasikan data yang ada untuk memberi sebuah pandangan baru. Lalu saya juga membuat sebuah kolom baru untuk mengkatagorikan apakah seorang pelanggan itu churn atau tidak, saya menentukan seorang pelanggan itu churn atau tidaknya dengan melihat data transaksi terakhirnya kapan. Apabila transaksi terakhir yang dilakukan lebih adalah <= 2018-08-01 maka pelanggan tersebut termasuk dalam katagori churn.
-* **Project Sederhana**
 
